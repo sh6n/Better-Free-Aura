@@ -1,0 +1,6 @@
+game.Players.LocalPlayer.PlayerScripts.dayNightEffects.Disabled = true
+game.StarterPlayer.StarterPlayerScripts.dayNightEffects.Disabled = true
+game.Lighting.day.Value = true
+game.Lighting.lightingDay.Value = true
+game.Players.LocalPlayer:SetAttribute("InfiniteBag", true) 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sh6n/TSG-Free-Aura/refs/heads/main/Script", true))()
